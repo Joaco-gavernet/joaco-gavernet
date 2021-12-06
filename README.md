@@ -7,7 +7,8 @@
 - 🤔 Looking for help with job opportunities.
 - 💬 Ask me about HTML, CSS, JavaScript and React.js
 - 📫 How to reach me: 
-  Email: joaquingavernet@gmail.com
-  Instagram: joaco_gavernet
-  Twitter: joaco_gavernet
-  Linkedin: Joaquin Gavernet
+
+Email: joaquingavernet@gmail.com
+Instagram: joaco_gavernet
+Twitter: joaco_gavernet
+Linkedin: Joaquin Gavernet
