@@ -1,11 +1,10 @@
 ### Hi there 👋
-#### This is Joaquin Gavernet from Buenos Aires, Argentina. I am a 18 year old boy with hunger of learning. 
+#### This is Joaquin Gavernet from Buenos Aires, Argentina. 
 
 ### About me:
-- 🔭 Working on freelancing jobs as a web developer in React.js. 
+- 🔭 Working on Criptolab as a full-stack developer. 
 - 🌱 Learning Next.js
-- 🤔 Looking for help with job opportunities.
-- 💬 Ask me about HTML, CSS, JavaScript and React.js
+- 💬 Don't hesitate to contact me!
 - 📫 How to reach me: 
 
 Email: joaquingavernet@gmail.com
