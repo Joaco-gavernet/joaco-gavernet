@@ -4,9 +4,8 @@
 ### About me:
 - 🔭 Working on Criptolab as a full-stack developer. 
 - 🌱 Learning Next.js
-- 💬 Don't hesitate to contact me!
-- 📫 How to reach me: 
-
+ 
+reach me: 
 Email: joaquingavernet@gmail.com
 Instagram: joaco_gavernet
 Twitter: joaco_gavernet
