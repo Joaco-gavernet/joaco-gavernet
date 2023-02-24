@@ -2,8 +2,8 @@
 #### This is Joaquin Gavernet from Buenos Aires, Argentina. 
 
 ### About me:
-- 🔭 Working on Criptolab as a full-stack developer. 
-- 🌱 Learning Next.js
+- 🔭 Currently @ Panda Labs as a full-stack developer. 
+- 🌱 Learning Next.js and TypeScript
  
 reach me: 
 Email: joaquingavernet@gmail.com
