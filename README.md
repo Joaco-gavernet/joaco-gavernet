@@ -3,7 +3,7 @@
 
 ### About me:
 - 🔭 Currently @ Panda Labs as a full-stack developer. 
-- 🌱 Learning Next.js and TypeScript
+- 🌱 Learning Next.js, TypeScript, C, Java and Assembly.
  
 reach me: 
 Email: joaquingavernet@gmail.com
