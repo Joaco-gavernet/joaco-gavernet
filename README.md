@@ -6,6 +6,6 @@
 - 🌱 Learning Next.js, TypeScript, C, Java and Assembly.
  
 ### reach me: 
-joaquingavernet@gmail.com
-ig/tw joaco_gavernet
+joaquingavernet@gmail.com 
+ig/tw joaco_gavernet 
 linkedin Joaquin Gavernet
