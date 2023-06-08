@@ -1,11 +1,7 @@
-### Hi there 👋
-#### This is Joaquin Gavernet from Buenos Aires, Argentina. 
+#### 🇦🇷 Made in Buenos Aires, Argentina. 
 
-### About me:
-- 🔭 Currently @PandaLabs as a full-stack developer. 
-- 🌱 Learning Next.js, TypeScript, C, Java and Assembly.
+#### about: 
+🌱 Learning... the basics first.
  
-### reach me: 
+#### reach: 
 joaquingavernet@gmail.com 
-ig/tw joaco_gavernet 
-linkedin Joaquin Gavernet
