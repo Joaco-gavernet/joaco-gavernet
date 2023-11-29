@@ -2,4 +2,4 @@
 joaquingavernet@gmail.com 
 
 #### chess:
-https://play.chess.com/SFayY
+https://friend.chess.com/o6qe2
